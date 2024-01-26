@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: board-container
-        image: oolralra/fast-image:2
+        image: oolralra/fast-image:7
         ports:
         - containerPort: 8000
 
